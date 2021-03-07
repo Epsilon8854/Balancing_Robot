@@ -1,0 +1,12 @@
+main.c:94:6:setPoint	8	static
+main.c:98:7:update	32	static
+main.c:121:6:initPID	0	static
+main.c:136:6:MotorInit	8	static
+main.c:140:6:MotorStop	0	static
+main.c:150:6:MotorBackward	16	static
+main.c:173:6:MotorForward	16	static
+main.c:197:6:HAL_UART_RxCpltCallback	8	static
+main.c:257:6:HAL_TIM_PeriodElapsedCallback	64	static
+main.c:379:6:SystemClock_Config	72	static
+main.c:316:5:main	8	static
+main.c:420:6:Error_Handler	0	static

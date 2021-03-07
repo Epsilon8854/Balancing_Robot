@@ -1,0 +1,17 @@
+MPU6050.c:25:9:MPU6050_ReadOneByte	32	static
+MPU6050.c:35:6:MPU6050_WriteOneByte	32	static
+MPU6050.c:40:6:MPU6050_WriteBits	24	static
+MPU6050.c:56:6:MPU6050_WriteOneBit	16	static
+MPU6050.c:68:6:MPU6050_ReadBuff	24	static
+MPU6050.c:74:6:MPU6050_Check	8	static
+MPU6050.c:86:6:MPU6050_CalAvgValue	12	static
+MPU6050.c:101:6:MPU6050_SetClockSource	0	static
+MPU6050.c:106:6:MPU6050_SetFullScaleGyroRange	0	static
+MPU6050.c:111:6:MPU6050_SetLPF	0	static
+MPU6050.c:116:6:MPU6050_SetFullScaleAccelRange	0	static
+MPU6050.c:121:6:MPU6050_SetSleepEnabled	0	static
+MPU6050.c:126:6:MPU6050_SetI2CMasterModeEnabled	0	static
+MPU6050.c:131:6:MPU6050_SetI2CBypassEnabled	0	static
+MPU6050.c:136:6:MPU6050_GetData	48	static
+MPU6050.c:163:6:MPU6050_InitOffset	72	static
+MPU6050.c:192:6:MPU6050_Init	8	static
